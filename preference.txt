@@ -1,0 +1,6 @@
+Flask was easier to use but django certainly felt more powerful.Having a seperate file for url,views,model would be very helpful when creating sites with many pages.
+Here the site only had 2 pages so it was not that useful but i can clearly see myself preferring django over flask when making abstruse websites.
+Flask is relatively very simple but once you get the hang of django it makes understanding the routing process of a site very easy as everything is well articulated into different files.
+Also the ability of creating different applications within a single project seems useful.
+In summary,for this particular site I would prefer flask but if i was making a little complex website,i would use django.
+ 
